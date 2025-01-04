@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func Hello() {
+func Hello() string {
 	fmt.Println("Hello, World! I'm from Package")
 }
